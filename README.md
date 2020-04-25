@@ -44,9 +44,9 @@ folder
 
 Install with composer
 
-`$ composer 
+`$ composer install`
 
-install`
 Or
+
 `$ sudo php composer.phar install`
 
