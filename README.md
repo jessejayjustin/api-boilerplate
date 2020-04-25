@@ -40,7 +40,7 @@ MAC
 Go to the project 
 
 folder
-`$ cd REST-Api-with-Slim-PHP`
+`$ cd api-boilerplate`
 
 Install with composer
 
