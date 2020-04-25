@@ -41,7 +41,9 @@ Go to the project
 
 folder
 `$ cd REST-Api-with-Slim-PHP`
+
 Install with composer
+
 `$ composer 
 
 install`
