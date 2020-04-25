@@ -6,6 +6,7 @@ This is a REST Web Service boilerplate which allow:
 
 Getting Started
 
+
 This page will help you get started with this API.
 `
 Requirements
@@ -15,6 +16,7 @@ MySQL or MariaDB
 Apache Server
 Slim Framework 
 `
+
 Installation
 
 Copy this project
