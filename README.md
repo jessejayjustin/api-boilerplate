@@ -46,7 +46,7 @@ Install with composer
 
 `$ composer install`
 
-Or
+or
 
 `$ sudo php composer.phar install`
 
