@@ -1,6 +1,6 @@
 # REST API PHP
 
-This is a REST Web Service boilerplate which allow:
+This is a REST Web Service which allow:
 
 `Crud`
 
