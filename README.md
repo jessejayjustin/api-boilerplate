@@ -1,4 +1,4 @@
-# api-boilerplate
+# REST API PHP
 
 This is a REST Web Service boilerplate which allow:
 
